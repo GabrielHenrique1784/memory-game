@@ -1,3 +1,8 @@
+body{
+  background-color: beige;
+ 
+}
+
 .login-form {
   align-items: center;
   display: flex;
@@ -38,8 +43,8 @@
 }
 
 .login__button {
-  background-color: #00b5cc;
-  border: 3px solid #b2df28;
+  background-color: #b245d3;
+  border: 3px solid #28abdf;
   border-radius: 8px;
   color: #fff;
   cursor: pointer;
@@ -55,3 +60,4 @@
   color: #aaa;
   cursor: auto;
 }
+
