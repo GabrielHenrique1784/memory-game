@@ -124,3 +124,6 @@ window.onload = () => {
   startTimer();
   loadGame();
 }
+
+
+alert('se leu tá me devendo um salgado')
